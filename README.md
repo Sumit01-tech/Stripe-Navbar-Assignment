@@ -73,7 +73,7 @@ Copy code
 
 ## Installation
 ```bash
-git clone <GITHUB_REPO_LINK>
+git clone https://github.com/Sumit01-tech/Stripe-Navbar-Assignment.git
 cd stripe-navbar
 npm install
 npm run dev
@@ -86,7 +86,7 @@ Deployment
 Live Preview: DEMO LINK
 
 GitHub Repository
-Repository Link
+https://github.com/Sumit01-tech/Stripe-Navbar-Assignment.git
 
 Notes / Assumptions
 Focused on Solutions mega menu
